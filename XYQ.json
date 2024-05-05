@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/XYQ.jar;md5;0578e48b03db152d0f0bbb03704d4ab5",
+    "spider": "https://mirror.ghproxy.com/https://github.com/mlcs-top/tv-json/tree/master/jarXYQ.jar",
     "lives": [
         {
           "name": "Yoursmile7",
